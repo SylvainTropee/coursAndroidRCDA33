@@ -23,3 +23,7 @@ rootProject.name = "CoursAndroid"
 include(":app")
 include(":mod1demo1")
 include(":mod1demo2")
+include(":mod3demo1")
+include(":mod3demo2")
+include(":mod3demo3")
+include(":mod3demo4")
